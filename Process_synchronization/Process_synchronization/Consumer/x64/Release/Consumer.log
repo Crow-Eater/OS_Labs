@@ -1,0 +1,6 @@
+﻿  Consumer.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 215 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Consumer.vcxproj -> C:\File\Proga\OSLabs\Process_synchronization\Process_synchronization\x64\Release\Consumer.exe

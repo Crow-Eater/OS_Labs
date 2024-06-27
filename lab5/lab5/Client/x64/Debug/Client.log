@@ -1,0 +1,3 @@
+﻿  Client.cpp
+C:\File\Proga\OSLabs\lab5\lab5\Client\Client.cpp(107,10): warning C4101: 'bytesRead': unreferenced local variable
+  Client.vcxproj -> C:\File\Proga\OSLabs\lab5\lab5\x64\Debug\Client.exe

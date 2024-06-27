@@ -1,0 +1,4 @@
+﻿  Thread_synchronization.cpp
+C:\File\Proga\OSLabs\Thread_synchronization\Thread_synchronization\Thread_synchronization\Thread_synchronization.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\File\Proga\OSLabs\Thread_synchronization\Thread_synchronization\Thread_synchronization\Thread_synchronization.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Thread_synchronization.vcxproj -> C:\File\Proga\OSLabs\Thread_synchronization\Thread_synchronization\x64\Debug\Thread_synchronization.exe
